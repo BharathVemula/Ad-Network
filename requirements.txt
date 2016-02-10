@@ -1,5 +1,25 @@
 functions for Administrator:
+    - Approving a advertiser
+	- Approving a publisher
+	- Assisting/ providing techinal support
 
-functions of advertiser:
+functions for a user : 
+   - sign up
+   - login
+   
+   functions of advertiser:
+   
+   functions of publisher:
+     - A dashboard to view his earnings with following featues
+	     - set filters 
+		    -all websites/paticular website
+			-since (ex. last 7 days,last month etc)
+			
+	 - manging his websites
+	     - adding a websites
+		     -set a bid for the website()
+		 - removing a website
+		 - managing the postion of the add on that website
+	 - Ask for techinal support
+ 
 
-functions of publisher:
