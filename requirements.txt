@@ -8,18 +8,22 @@ functions for a user :
    - login
    
    functions of advertiser:
+     - 
    
    functions of publisher:
-     - A dashboard to view his earnings with following featues
+     - A dashboard to view his earnings with following featues:
 	     - set filters 
 		    -all websites/paticular website
 			-since (ex. last 7 days,last month etc)
+		 - genrate report(a detailed report showing publishers's earnings)
 			
 	 - manging his websites
 	     - adding a websites
-		     -set a bid for the website(demanding 'x' amount for the ad that is to be placed on the website)
+		     - getting details of the website
+		     - set a bid for the website(demanding 'x' amount for the ad that is to be placed on the website)
 		 - removing a website
 		 - managing the postion of the add on that website
+		 - changing the bid attributes of a website
 	 - Ask for techinal support
  
 
