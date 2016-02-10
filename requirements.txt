@@ -17,7 +17,7 @@ functions for a user :
 			
 	 - manging his websites
 	     - adding a websites
-		     -set a bid for the website()
+		     -set a bid for the website(demanding 'x' amount for the ad that is to be placed on the website)
 		 - removing a website
 		 - managing the postion of the add on that website
 	 - Ask for techinal support
