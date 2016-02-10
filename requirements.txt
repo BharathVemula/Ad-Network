@@ -24,6 +24,7 @@ functions for a user :
 		 - removing a website
 		 - managing the postion of the add on that website
 		 - changing the bid attributes of a website
+	 - spam report a advertaiser
 	 - Ask for techinal support
- 
+
 
