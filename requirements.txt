@@ -1,29 +1,50 @@
-functions for Administrator:
-    - Approving a advertiser
-	- Approving a publisher
-	- Assisting/ providing techinal support
+Roles of Administrator:
+                            - Approving a advertiser
+	                    - Approving a publisher
+	                    - Assisting/providing techinal support
 
-functions for a user : 
-   - sign up
-   - login
-   
-   functions of advertiser:
-     - 
-   
-   functions of publisher:
-     - A dashboard to view his earnings with following featues:
-	     - set filters 
-		    -all websites/paticular website
-			-since (ex. last 7 days,last month etc)
-		 - genrate report(a detailed report showing publishers's earnings)
+Features for a User: 
+                     - sign up
+                     - login
+                     - Edit Profie
+                     - Billing
+                     - Security
+Features for a Advertiser:
+                        - A Dashboard to view the following features:
+                    					             - Active campaigns
+                                                                     - Current Balance
+                                                                     - Total amount spent
+                                                                     - Graphical Overview of:
+                                                                                             a) Traffic 
+                                                                                             b) Spending 
+                                                                                             c) Rate 
+                                                                     - Last payment date 
+                                                                     - Referred Members
+                        - Campaigns Dashboard to view the following:
+                                                                     - Campaign Name
+                                                                     - Budget
+								     - Status
+							             - Options
+		       - Create New Campaign 
+                       - Generate a Report of his Advertisements
+                       - Publishers Inventory
+                       - Details of the token publisher queried
+                       - Ask for technical support
+Functions of Publisher:
+                       - A Dashboard to view his earnings with following features:
+	                      - set filters 
+		              -all websites/paticular website
+		              - genrate report(a detailed report showing publishers's earnings)
 			
-	 - manging his websites
-	     - adding a websites
+	  - managing his websites
+	             - adding a websites
 		     - getting details of the website
 		     - set a bid for the website(demanding 'x' amount for the ad that is to be placed on the website)
-		 - removing a website
-		 - managing the postion of the add on that website
-		 - changing the bid attributes of a website
+		     - removing a website
+		     - managing the postion of the add on that website
+		     - changing the bid attributes of a website
+         - Code generator for Advertisements
+         - Trouble shooter in case of any error in code execution on their website
 	 - spam report a advertaiser
 	 - Ask for techinal support
 
